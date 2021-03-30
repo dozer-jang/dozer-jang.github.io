@@ -21,24 +21,17 @@ module.exports = {
           to: '/', 
           label: 'Blog', 
           position: 'left',
-          items : [
-            {
-              label: 'Infra',
-            }
-          ]
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/dozer-jang',
           label: 'GitHub',
           position: 'right',
         },
-        
       ],
     },
     footer: {
       style: 'dark',
       links: [
-        
         {
           title: 'More',
           items: [
